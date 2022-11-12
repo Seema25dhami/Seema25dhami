@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seema25dhami
-- 👀 I’m interested in Machine learning and open source contributing
-- 🌱 I’m currently learning flutter app development and competitve programming.
+- 👀 I’m interested in Machine learning , competitive programming and open source contributing
+- 🌱 I’m currently learning flutter app development .
 
 
 <!---
