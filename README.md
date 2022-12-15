@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seema25dhami
+- 👋 Hi, I’m Seema
 - 👀 I’m interested in Machine learning , competitive programming and open source contributing
 - 🌱 I’m currently learning flutter app development .
 
